@@ -1,4 +1,5 @@
-Ejercicio 1 - Laravel Básico: Gestión de Productos
+Ejercicio 1 y Ejercicio 2 - Laravel Básico: Gestión de Productos - SQL: Consulta de ventas
+
 Descripción
 Este ejercicio consiste en crear una estructura básica en Laravel para gestionar productos. Incluye la creación de una migración para la tabla de productos, un modelo Eloquent, una ruta API y un controlador que devuelve los productos en formato JSON.
 
